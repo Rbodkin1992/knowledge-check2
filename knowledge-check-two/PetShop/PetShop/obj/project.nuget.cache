@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOfr5UhoZ4LZoS1P6AQbAicsKRC+4hV+kKUcbtQ7LjOspKKoUtPa+jxdgQN3kAHCYXDMbhdb+MNbu9IJy0zMCw==",
+  "success": true,
+  "projectFilePath": "/Users/rebeccabodkin/Documents/knowledge-check-two/PetShop/PetShop/PetShop.csproj",
+  "expectedPackageFiles": [
+    "/Users/rebeccabodkin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rebeccabodkin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/rebeccabodkin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
